@@ -10,10 +10,10 @@ First time using git
 
 ## Unix commands
 
--**ls**: list the conten of a directory
--**cd**: change to another directory
--**ls --help**: bucar manual del comando deseado
--**pdw**: print the printing working direcotry. Show where I am at the moment 
+- **ls**: list the conten of a directory
+- **cd**: change to another directory
+- **ls --help**: bucar manual del comando deseado
+- **pdw**: print the printing working direcotry. Show where I am at the moment 
 
 ##Git comands
 
