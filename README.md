@@ -21,3 +21,6 @@ First time using git
 - **git add**: add files to the staging area before comiting
 - **git commit**: register the changes into the history of the repository
 - **git push**: send local changes to github
+
+## Tengo muchos problemas
+- **El Tec me esta matando**
