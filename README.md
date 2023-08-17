@@ -15,7 +15,7 @@ First time using git
 - **ls --help**: bucar manual del comando deseado
 - **pdw**: print the printing working direcotry. Show where I am at the moment 
 
-##Git comands
+## Git comands
 - **git clone**: download a repository in the local machine
 - **git statuts**: check teh current status of the local repository
 - **git add**: add files to the staging area before comiting
