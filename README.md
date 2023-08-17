@@ -16,4 +16,8 @@ First time using git
 - **pdw**: print the printing working direcotry. Show where I am at the moment 
 
 ##Git comands
-
+- **git clone**: download a repository in the local machine
+- **git statuts**: check teh current status of the local repository
+- **git add**: add files to the staging area before comiting
+- **git commit**: register the changes into the history of the repository
+- **git push**: send local changes to github
