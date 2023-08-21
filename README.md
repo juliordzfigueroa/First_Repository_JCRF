@@ -21,8 +21,17 @@ First time using git
 
 ## Git comands
 - **git clone**: download a repository in the local machine
-- **git statuts**: check teh current status of the local repository
+```bash
+git clone <url>
+```
+- **git statuts**: check teh current status of the local repository¿
+```bash
+git status 
+```
 - **git add**: add files to the staging area before comiting
+```bash
+git add <file>
+```
 - **git commit**: register the changes into the history of the repository
 - **git push**: send local changes to github
 - **git config -global**: sets a user and a password for git
