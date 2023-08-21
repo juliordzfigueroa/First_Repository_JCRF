@@ -33,7 +33,13 @@ git status
 git add <file>
 ```
 - **git commit**: register the changes into the history of the repository
+```bash
+git commit -m "Update README.md"
+```
 - **git push**: send local changes to github
+```bash
+git push original main
+```
 - **git config -global**: sets a user and a password for git
 - **cat .gotconfig**: Show the settings of git
 - **git log**: history of the changes in a file
