@@ -14,6 +14,10 @@ First time using git
 - **cd**: change to another directory
 - **ls --help**: bucar manual del comando deseado
 - **pdw**: print the printing working direcotry. Show where I am at the moment 
+- **CNTRL + L**: Cleans the console
+- **~** Leads you to your home directory
+- **ssh-keygen -t ed25519 -C**: sets a password for the console
+- **mkdir**: Creates a new directory
 
 ## Git comands
 - **git clone**: download a repository in the local machine
@@ -21,3 +25,7 @@ First time using git
 - **git add**: add files to the staging area before comiting
 - **git commit**: register the changes into the history of the repository
 - **git push**: send local changes to github
+- **git config -global**: sets a user and a password for git
+- **cat .gotconfig**: Show the settings of git
+- **git log**: history of the changes in a file
+
