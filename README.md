@@ -19,6 +19,8 @@ First time using git
 - **ssh-keygen -t ed25519 -C**: sets a password for the console
 - **mkdir**: Creates a new directory
 
+![Unix comand guide](unix_comands.jpg)
+
 ## Git comands
 - **git clone**: download a repository in the local machine
 ```bash
